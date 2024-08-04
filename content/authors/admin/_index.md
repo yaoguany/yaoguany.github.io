@@ -40,6 +40,7 @@ education:
   - area: PhD Artificial Intelligence
     institution: UC Santa Barbara
     date_start: 2024-09-01
+    date_end: ''
     summary: |
       Supervised by [Prof Shiyu Chang](https://code-terminator.github.io/).
 
