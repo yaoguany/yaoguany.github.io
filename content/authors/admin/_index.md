@@ -32,7 +32,7 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/yaoguany
-  - icon: brands/bilibili
+  - icon: bilibili
     url: https://space.bilibili.com/13532062
 
 
