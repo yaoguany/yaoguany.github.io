@@ -47,7 +47,7 @@ education:
   - area: BEng Artificial Intelligence
     institution: Beijing Normal University
     date_start: 2020-09-01
-    date_end: 2020-06-31
+    date_end: 2020-06-30
 
 work:
   - position: Undergraduate Research Intern，advised by Professor Tong Zhang[http://tongzhang-ml.org/]
