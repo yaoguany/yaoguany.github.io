@@ -2,9 +2,6 @@
 # Display name
 title: Guanyu Yao(姚冠宇)
 
-# Name pronunciation (optional)
-name_pronunciation: Guanyu Yao
-
 # Full name (for SEO)
 first_name: Guanyu Yao
 last_name: Yao
@@ -50,10 +47,11 @@ education:
     date_end: 2020-06-30
 
 work:
-  - position: Undergraduate Research Intern，advised by Professor Tong Zhang[http://tongzhang-ml.org/]
+  - position: Undergraduate Research Intern
     company_name: Hong Kong University of Science and Technology
     date_start: 2023-07-01
     date_end: 2023-12-01
+    advisor: Professor Tong Zhang[http://tongzhang-ml.org/]
     summary: |2-
       Responsibilities include:
       - Assisted with the code development and maintenance of the open-source [LMFlow](https://github.com/OptimalScale/LMFlow).
