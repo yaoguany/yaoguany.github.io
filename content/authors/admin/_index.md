@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CS Ph.D Student @ UCSB, advised by Prof. Shiyu Chang
+role: CS Ph.D Student @ UCSB
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
