@@ -8,7 +8,7 @@ last_name: Yao
 
 # Status emoji
 status:
-  icon: 😋
+  icon: 🤠
 
 # Is this the primary user of the site?
 superuser: true
@@ -34,7 +34,7 @@ profiles:
 
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD Computer Science
     institution: UC Santa Barbara
     date_start: 2024-09-01
     date_end: ''
@@ -44,17 +44,17 @@ education:
   - area: BEng Artificial Intelligence
     institution: Beijing Normal University
     date_start: 2020-09-01
-    date_end: 2020-06-30
+    date_end: 2024-06-30
 
 work:
   - position: Undergraduate Research Intern
     company_name: Hong Kong University of Science and Technology
     date_start: 2023-07-01
     date_end: 2023-12-01
-    advisor: Professor Tong Zhang[http://tongzhang-ml.org/]
     summary: |2-
       Responsibilities include:
       - Assisted with the code development and maintenance of the open-source [LMFlow](https://github.com/OptimalScale/LMFlow).
+      - Advisor: Professor Tong Zhang[http://tongzhang-ml.org/]
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
