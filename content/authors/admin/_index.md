@@ -54,7 +54,7 @@ work:
     summary: |2-
       Responsibilities include:
       - Assisted with the code development and maintenance of the open-source [LMFlow](https://github.com/OptimalScale/LMFlow).
-      - Advisor: Professor Tong Zhang[http://tongzhang-ml.org/]
+      - Advisor: Professor [Tong Zhang](http://tongzhang-ml.org/)
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
