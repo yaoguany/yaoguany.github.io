@@ -79,16 +79,10 @@ skills:
         icon: person-simple-walk
       - name: Cats
         description: ''
-        percent: 100
+        percent: 80
         icon: cat
       - name: Photography
         description: ''
         percent: 80
         icon: camera
-
-languages:
-  - name: English
-    percent: 50
-  - name: Chinese
-    percent: 100
 ---
